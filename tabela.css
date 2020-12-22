@@ -1,0 +1,135 @@
+
+.cabecalho{
+
+	background:linear-gradient(#735E45,#F2E4C9);
+	margin: -35px -10px 5px;
+}
+body{
+
+	background: #090909;
+}
+
+
+/*altera os nomes em cima das fotos*/
+.nomes{
+
+	text-align:center;
+	font-size: 22px;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 2px 3px #9932CC;
+	border: 2px solid  #FFFFFF;
+
+}
+
+
+
+h1{
+
+	
+	font-size: 240px;
+	color:  #403124 ;
+	text-shadow: 4px 4px #FFFFFF;
+	font-weight: bold;
+	margin: 20px 180px;
+}
+
+
+
+
+/*padrão para tamanho das fotos*/
+.fotos{
+	
+	width: 50%;
+	margin: 0 80px;
+	transition: 0.9s;
+	border-spacing: : 1px solid #FFFFFF;
+	
+	
+}
+
+
+
+/*aumenta o tamanho da foto na tabela*/
+
+
+.fotos:hover {
+
+	width: 50.9%;
+	opacity: 0.77;
+}
+#augustus:hover {
+	width: 45.9%;
+	opacity:0.77;
+}
+#ginesta:hover{
+	
+	width: 52.9%;
+	opacity: 0.77;
+}
+#cassandro:hover{
+
+	
+	width: 45.9%;
+	opacity: 0.77;
+}
+#monet:hover{
+	
+	width: 55.9%;
+	opacity: 0.77;
+}
+#Danda:hover{
+	
+	width: 75.9%;
+	opacity: 0.77;
+}
+
+/* deixa o texto em branco na tabeka8*/ 
+td{
+		color:white;
+
+}
+/* ajustes nas fotos */		
+#augustus{
+
+	width: 45%;
+	margin: 0 120px;
+	transition: 0.9s;
+}
+#ginesta{
+	width: 52%;
+	margin: 0 120px;
+	transition: 0.9s;
+}
+#cassandro{
+
+	width: 45%;
+	margin: 0 120px;
+	transition: 0.9s;
+}
+#monet{
+	width: 55%;
+	margin: 0 120px;
+	transition: 0.9s;
+}
+#Danda{
+	width: 75%;
+	margin: 0 60px;
+	transition: 0.9s;
+}
+p{
+	color:#FFFFFF;
+	text-align: center;
+	font-size: 40px;
+	padding: 10px;
+	font-weight: bold;
+}
+p a{
+	color:#FFFFFF;
+	text-decoration: none;
+}
+#alt{
+
+text-align: center;
+
+}

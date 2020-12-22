@@ -1,0 +1,148 @@
+body{
+	background:linear-gradient(#FFD700,#DAA520,#F0E68C) ;
+	background-size: 100%;
+	background-repeat: repeat;
+	opacity: 0.9;
+
+}
+.principal{
+	background: #F0E68C;
+	padding: 10px 600px;
+	
+	
+}
+h1{
+
+	
+	font-size: 240px;
+	color:#DAA520;
+	font-weight: bold;
+	padding: 20px 100px;
+	
+}
+
+
+.lista li{
+	display: static;
+	
+}
+
+.s{
+
+	display: static;
+	font-size: 20px;
+	text-align: center;
+	padding: 0px;
+	color: #FFFFFF;
+	font-weight: bold;
+	background: #000000;
+}
+.voltar{
+			
+		font-size: 90px;
+
+		
+}
+p a {
+		text-decoration: none;
+		color: #FFFFFF;
+		padding: 100px 550px ;
+
+}
+p a:hover{
+	font-size: 92px;
+	color: #FDFDFD;
+}
+.s1{
+	color: #FFFFFF;
+	display: static;
+	font-size: 18px;
+	text-align: center;
+	padding: 0px;
+	font-weight: bold;
+	background: #000000;
+}
+.Personagens h2{
+	
+	display: static;
+	text-align: center;
+	font-size: 25px;
+	background:#000000;
+	color: #FFFFFF;
+	font-weight: bold;
+
+	
+
+}
+nav{
+	display: static;
+	text-decoration: none;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px;
+}
+.Personagens h2:hover{
+	display: static;
+	font-size: 25.9px;
+	color: #FFFF00;
+
+}
+.bloco{
+
+		 float: left;
+		 padding: 100px 100px;
+		
+
+}
+#gamet{
+	height: 400px;
+	padding: 30px 240px;
+
+
+}
+
+.b{
+	align-items: 50px 100px;
+}
+#brito{
+	display: block-inline;
+	height: 400px;
+	padding: 30px 250px;
+	
+}	
+#hopper{
+
+	height: 420px;
+	padding: 0 250px;
+
+
+}
+#monet{
+	height: 450px;
+	padding: 0px 220px;
+
+}
+#danda{
+		height: 400px;
+	padding: 0 100px;
+
+}
+#casandro{
+		height: 440px;
+	padding: 0 320px;
+
+}
+#bochkreva{
+		height: 440px;
+	padding: 0 290px;
+
+}
+.g{
+	align-items: 10px 20px;
+}
+#ginesta{
+		height: 350px;
+	padding: 0 320px;
+
+}
